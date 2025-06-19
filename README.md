@@ -18,5 +18,3 @@ A simple web app to test your typing speed using HTML, CSS, and JavaScript.
 1. Download the files
 2. Open `index.html` in a browser
 
-# Screenshot
-![Typing Speed Tester](https://via.placeholder.com/500x300.png?text=Typing+Speed+Tester)
